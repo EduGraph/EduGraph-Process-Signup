@@ -13,6 +13,5 @@ import org.camunda.bpm.application.impl.ServletProcessApplication;
  * @author Pliskin
  */
 @ProcessApplication("Regis Approval App")
-public class RegisApprovalApplication extends ServletProcessApplication{
-    //TODO: DMN inplementation
+public class RegisApprovalApplication extends ServletProcessApplication {
 }
